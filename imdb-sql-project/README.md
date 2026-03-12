@@ -14,7 +14,7 @@ Built using DataGrip + the IMDb Complete Dataset (Kaggle).
 ## Technologies
 - SQL
 - DataGrip
-- SQLite/PostgreSQL (whichever you used)
+- SQLite
 
 ## How to Use
 1. Import the IMDb CSV files into your database.
@@ -23,3 +23,4 @@ Built using DataGrip + the IMDb Complete Dataset (Kaggle).
 
 ## Dataset
 IMDb Complete Dataset (Kaggle)
+
